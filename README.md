@@ -1,4 +1,3 @@
-# Yusif-Alakbarzade
 <h1 align="center">Hi, I'm Yusif Alakbarzade</h1>
 <h3 align="center">Innovative Software Developer</h3>
 
